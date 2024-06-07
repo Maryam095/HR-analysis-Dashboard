@@ -23,12 +23,12 @@ This dataset was gotten from Kaggle.com as csv file.
  ### Results/Findings
    The analysis results are summarized as follows;
   - Total number of employees results to 1,470.
-  - Total number of male employees are 882 having 60% and total number of female employees are 588 with 40%
+  - Total number of male employees are 882 having 60% of the total employees and total number of female employees are 588 having 40% of the total employees
   - Level one ranks the highest of the job level
-  - The total number of employee due for promotion results to 215 with 15% using 6years as the threshold for promotion.
+  - The total number of employee due for promotion results to 215 having 15% of the total employees using 6years as the threshold for promotion.
   - Employees with 5years in service ranks the top, with 1year as the 2nd followed by 3years and so on.
-  - The total number of employee due for retrenchment are 16 with just 1% using 30years and more at company as the threshold.
-  - Most employees stay close using 10min and less distance as 'close', more than 10mins upto 20mins as 'far' and more than 20mins as 'very far'
+  - The total number of employees due for retrenchment are 16 having just 1% of the total employees using 30years and more at company as the threshold.
+  - Most employees stay close using 10mins and less distance as 'close', more than 10mins upto 20mins as 'far' and more than 20mins as 'very far'
  ## Recommendations
    Based on the analysis, The following are recommended;
    1. Concentrate marketing activities on sections and regions that are delivering higher performance.
