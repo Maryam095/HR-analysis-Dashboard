@@ -31,9 +31,8 @@ This dataset was gotten from Kaggle.com as csv file.
   - Most employees stay close using 10mins and less distance as 'close', more than 10mins upto 20mins as 'far' and more than 20mins as 'very far'
  ## Recommendations
    Based on the analysis, The following are recommended;
-   1. Concentrate marketing activities on sections and regions that are delivering higher performance.
-   2. Utilize more marketing strategies for high profit or best selling products.
-   3. Optimize the process of supply chains to cut costs and speed up delivery.
-   4. Predictive analysis can be used for forecasting demand and the inventory levels will be updated accordingly.
+   1. Increase employee involvement in decision making process.
+   2. Implement regular performance reviews and feedback mechanisms.
+   3. Offer flexible working arrangements to improve work-life balance.
    ### Reference
    Kaggle.com
